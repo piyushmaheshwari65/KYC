@@ -1,5 +1,5 @@
 # KYCDetails
- 
+ (Will update it soon)
 Know your customer or KYC procedure is used by the bank to verify the identity of the customer. To implement the KYC in the blockchain the following features are implemented -
 
 ●	User must upload his details for KYC Validation
